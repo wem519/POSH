@@ -68,7 +68,7 @@ React Native 기반의 모바일 리커머스 마켓 프로젝트 👩🏻‍�
 - 프로젝트 작업 관련 질문, 의견 표출, 지식 공유를 지향합니다.
 
 ### 기타사항
-- 전반적인 프로젝트 관련 사항에 대한 질문은 [Discussion](https://github.com/COTOMO/studyrepo/discussions/1)을 활용합니다.
+- 전반적인 프로젝트 관련 사항에 대한 질문은 [Discussion](https://github.com/TeamPOSH/POSH/discussions/1)을 활용합니다.
 
 ---
 ![TeamPoshMembers](https://user-images.githubusercontent.com/79819941/139809109-782aee4d-dc3c-4781-82b4-024137e95c5e.png)
