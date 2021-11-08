@@ -1,3 +1,5 @@
-export default function Home() {
-  return <></>;
+import LoginUI from "./Login.presenter";
+
+export default function Login() {
+  return <LoginUI />;
 }
